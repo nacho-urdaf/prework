@@ -15,5 +15,8 @@
     "url": "https://github.com/nacho-urdaf/prework/issues"
   },
   "homepage": "https://github.com/nacho-urdaf/prework#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
